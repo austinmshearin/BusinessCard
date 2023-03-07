@@ -1,0 +1,4 @@
+Header background: #142d4c
+Main background: #ececec
+Button background: #385170
+Featured content background: #9fd3c7
